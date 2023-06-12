@@ -1,0 +1,1 @@
+document.getElementById('click-me').addEventListener('click', () => console.log("Clicked me"))
